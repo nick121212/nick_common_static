@@ -1,0 +1,28 @@
+{
+  "name": "nick_common_static",
+  "version": "1.0.0",
+  "description": "common_static",
+  "main": "index.html",
+  "dependencies": {
+    "angular-cookies": "^1.4.7",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-requirejs": "^0.4.2",
+    "grunt-typescript": "^0.7.0",
+    "matchdep": "^1.0.0",
+    "requirejs": "^2.1.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@core.corp.p7game.org:putong/common_static.git"
+  },
+  "author": "NICK",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "nick_common_static",
+  "description": "common_static",
+  "main": "index.html",
+  "authors": [
+    "NICK"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
