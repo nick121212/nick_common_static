@@ -1,6 +1,7 @@
 {
   "name": "nick_common_static",
   "description": "common_static",
+  "version": "1.1.0",
   "main": "index.html",
   "authors": [
     "NICK"
@@ -8,7 +9,7 @@
   "license": "ISC",
   "moduleType": [],
   "homepage": "",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
